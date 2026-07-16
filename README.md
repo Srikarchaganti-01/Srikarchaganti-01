@@ -1,25 +1,22 @@
-# Hi, I'm Srikar Chaganti 👋
+<div align="start">
 
-<p align="center">
-  <b>ECE Student @ NIT Agartala</b><br>
-  Building scalable web applications, exploring IoT systems, and solving problems through code.
-</p>
+# Srikar Chaganti
 
----
+B.Tech, Electronics and Communication Engineering — National Institute of Technology Agartala
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://srikarchaganti-01.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikar-chaganti-57ba17319)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Srikarchaganti-01)
 
-I'm a developer who enjoys turning ideas into functional products.
+</div>
 
-Currently exploring the intersection of **software development, electronics, and real-world systems** — from building modern web applications to designing MicroController-based hardware projects.
+<br>
 
-* 🎓 Electronics & Communication Engineering Student at **NIT Agartala**
-* 💻 Focused on **Frontend Development & Full Stack Applications**
-* 🔧 Building projects with **React, JavaScript, Node.js, and IoT platforms**
-* 🧠 Improving problem-solving skills through **Data Structures & Algorithms**
-* ⚡ Interested in creating technology that connects software with the physical world
+I build software that sits close to hardware — web applications on one end, embedded systems on the other. My work spans full stack development and IoT, with a preference for shipping complete projects over following tutorials.
 
----
+**Currently exploring:** Full Stack Development · IoT Systems · Embedded Programming · Data Structures & Algorithms
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -47,41 +44,42 @@ C++ • C • Python • JavaScript
 Git • GitHub • VS Code • Postman • Arduino • MATLAB
 </p>
 
----
+<br>
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🏎️ TelemetriX — Formula 1 Analytics Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A modern F1 analytics dashboard built to visualize race data, driver performance, standings, and team statistics.
+### [LynK](https://github.com/Srikarchaganti-01/Lynk_v1)
 
-**Built with:**
+**Messages in Motion**
+
+A browser-based Morse communication system built on ESP32. Text sent from the browser is transmitted over Wi-Fi, converted to Morse code, and physically signaled via LEDs and a buzzer. Hardware buttons allow manual Morse input, which is decoded and sent back to the browser in real time.
+
+`React` `Vite` `Tailwind CSS` `ESP32` `Arduino` `HTTP` `Wi-Fi`
+
+[Live Demo](https://lynk-v1-swart.vercel.app/) · [Repository](https://github.com/Srikarchaganti-01/Lynk_v1)
+
+</td>
+<td width="50%" valign="top">
+
+### [TelemetriX](https://github.com/Srikarchaganti-01/Telemetrix)
+
+**F1 Analytics Platform**
+
+A Formula 1 data platform covering race schedules, championship standings, results, and statistics through interactive visualizations.
+
 `React` `Tailwind CSS` `Chart.js` `Redux Toolkit` `Appwrite`
 
-Features:
+[Live Demo](https://telemetrix-a6up.vercel.app/) . [Repository](https://github.com/Srikarchaganti-01/Telemetrix)
 
-* Driver & constructor standings
-* Race schedules and results
-* Performance comparisons
-* Interactive data visualization
+</td>
+</tr>
+</table>
 
----
-
-### 🚗 Arduino RC Car — Embedded Systems Project
-
-A custom-built remote-controlled vehicle integrating electronics, motor control, and obstacle detection.
-
-**Built with:**
-`Arduino` `IR Communication` `Motor Drivers` `Ultrasonic Sensors`
-
-Features:
-
-* Wireless remote control
-* Motor control system
-* Obstacle avoidance logic
-* Hardware-software integration
-
----
+<br>
 
 ## 📊 GitHub Analytics
 
@@ -93,7 +91,6 @@ Features:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srikarchaganti-01&theme=github-compact" />
 </p>
-
 
 ---
 
