@@ -1,6 +1,6 @@
 <div align="start">
 
-# Srikar Chaganti
+## Hi, I'm Srikar Chaganti
 
 B.Tech, Electronics and Communication Engineering — National Institute of Technology Agartala
 
@@ -48,10 +48,6 @@ Git • GitHub • VS Code • Postman • Arduino • MATLAB
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### [LynK](https://github.com/Srikarchaganti-01/Lynk_v1)
 
 **Messages in Motion**
@@ -62,8 +58,7 @@ A browser-based Morse communication system built on ESP32. Text sent from the br
 
 [Live Demo](https://lynk-v1-swart.vercel.app/) · [Repository](https://github.com/Srikarchaganti-01/Lynk_v1)
 
-</td>
-<td width="50%" valign="top">
+--- 
 
 ### [TelemetriX](https://github.com/Srikarchaganti-01/Telemetrix)
 
@@ -75,9 +70,6 @@ A Formula 1 data platform covering race schedules, championship standings, resul
 
 [Live Demo](https://telemetrix-a6up.vercel.app/) . [Repository](https://github.com/Srikarchaganti-01/Telemetrix)
 
-</td>
-</tr>
-</table>
 
 <br>
 
