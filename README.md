@@ -1,91 +1,95 @@
-<div align="start">
+# Srikar Chaganti
 
-## Hi, I'm Srikar Chaganti
+**Software Developer | Full Stack Development | IoT & Embedded Systems**
 
-B.Tech, Electronics and Communication Engineering — National Institute of Technology Agartala
+B.Tech in Electronics and Communication Engineering at **NIT Agartala (2024–2028)**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://srikar-portfolio-opal.vercel.app/)
+I build software that sits close to hardware — from full-stack web applications and interactive dashboards to ESP32-based embedded systems. I enjoy taking ideas from concept to implementation, focusing on functionality, clean interfaces, and practical problem-solving.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-E0451F?style=flat-square&logo=vercel&logoColor=white)](https://srikar-portfolio-opal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikar-chaganti-57ba17319)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Srikarchaganti-01)
 
-</div>
+---
 
-<br>
+## About This Portfolio
 
-I build software that sits close to hardware — web applications on one end, embedded systems on the other. My work spans full stack development and IoT, with a preference for shipping complete projects over following tutorials.
+This portfolio is a collection of my work, technical experience, and ongoing journey as a developer.
 
-**Currently exploring:** Full Stack Development · IoT Systems · Embedded Programming · Data Structures & Algorithms
+Designed with a minimal editorial aesthetic, it focuses on presenting projects and experiences through clean typography, monochromatic visuals, subtle interactions, and a warm vermilion accent.
 
-<br>
+### Explore
 
-## 🛠️ Tech Stack
+- **About:** My background, interests, and approach to development.
+- **Projects:** Selected full-stack, frontend, and hardware-integrated projects.
+- **Experience:** Professional experience, including my Web Development Internship at Delta Automations.
+- **Skills:** Programming languages, frameworks, tools, and technologies.
+- **Contact:** Ways to connect and collaborate.
 
-### Frontend
+## Selected Projects
 
-<p>
-React.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Vite
-</p>
+### NexTask — Task Management Platform
 
-### Backend & Database
+A full-stack task management application designed for organizational workflows, hierarchical task assignments, and transparent task tracking.
 
-<p>
-Node.js • Express.js • MongoDB • Appwrite • REST APIs
-</p>
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-### Programming
+[Repository](https://github.com/Srikarchaganti-01/NexTask)
 
-<p>
-C++ • C • Python • JavaScript
-</p>
+### TelemetriX — F1 Analytics Platform
 
-### Tools & Platforms
+A Formula 1 dashboard featuring championship standings, race schedules, session results, podiums, and an administrative panel for managing racing data.
 
-<p>
-Git • GitHub • VS Code • Postman • Arduino • MATLAB
-</p>
+`React` `Tailwind CSS` `Chart.js` `Appwrite`
 
-<br>
+[Repository](https://github.com/Srikarchaganti-01/Telemetrix)
 
-## Featured Projects
+### After Credits — Media Tracking Platform
 
-### [LynK](https://github.com/Srikarchaganti-01/Lynk_v1)
+A movie and television tracking application featuring user profiles, watchlists, ratings, reviews, and personalized media collections.
 
-**Messages in Motion**
+`JavaScript` `Node.js` `Express.js` `MongoDB`
 
-A browser-based Morse communication system built on ESP32. Text sent from the browser is transmitted over Wi-Fi, converted to Morse code, and physically signaled via LEDs and a buzzer. Hardware buttons allow manual Morse input, which is decoded and sent back to the browser in real time.
+### LynK — Messages in Motion
 
-`React` `Vite` `Tailwind CSS` `ESP32` `Arduino` `HTTP` `Wi-Fi`
+A browser-based Morse code communication system connecting a React application with an ESP32 through Wi-Fi, using LEDs, a buzzer, and physical buttons for bidirectional communication.
 
-[Live Demo](https://lynk-v1-swart.vercel.app/) · [Repository](https://github.com/Srikarchaganti-01/Lynk_v1)
+`React` `Vite` `Tailwind CSS` `ESP32` `Arduino`
 
---- 
+[Repository](https://github.com/Srikarchaganti-01/Lynk_v1) · [Live Demo](https://lynk-v1-swart.vercel.app/)
 
-### [TelemetriX](https://github.com/Srikarchaganti-01/Telemetrix)
+---
 
-**F1 Analytics Platform**
+## Technical Stack
 
-A Formula 1 data platform covering race schedules, championship standings, results, and statistics through interactive visualizations.
+| Category | Technologies |
+|---|---|
+| Languages | C++, C, JavaScript, Python |
+| Frontend | React.js, HTML5, CSS3, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB, Appwrite |
+| IoT & Embedded | ESP32, ESP8266, Arduino |
+| Tools | Git, GitHub, Postman, VS Code |
 
-`React` `Tailwind CSS` `Chart.js` `Redux Toolkit` `Appwrite`
+## Experience
 
-[Live Demo](https://telemetrix-a6up.vercel.app/) . [Repository](https://github.com/Srikarchaganti-01/Telemetrix)
+**Web Development Intern — Delta Automations**
 
+*August 2026 – September 2026*
 
-<br>
+Worked on website auditing, frontend debugging, identifying UI inconsistencies, and resolving web-related issues using React.js, JavaScript, HTML, Tailwind CSS, and Vite.
 
-## 📊 GitHub Analytics
+## Competitive Programming
 
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Srikarchaganti-01&langs_count=8" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Srikarchaganti-01&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srikarchaganti-01&theme=github-compact" />
-</p>
+- 250+ problems solved on LeetCode.
+- 150+ problems solved on Codeforces.
+- Top 45% in LeetCode contest ratings.
+- Practicing Data Structures and Algorithms, including trees, graphs, dynamic programming, and greedy algorithms.
 
 ---
 
 <p align="center">
-  <i>"Building, learning, and improving one project at a time."</i>
+  <i>Building, learning, and improving one project at a time.</i>
+  <br/><br/>
+  © 2026 Srikar Chaganti
 </p>
