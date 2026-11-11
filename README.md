@@ -4,7 +4,7 @@
 
 B.Tech, Electronics and Communication Engineering — National Institute of Technology Agartala
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://srikarchaganti-01.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://srikar-portfolio-opal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikar-chaganti-57ba17319)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Srikarchaganti-01)
 
